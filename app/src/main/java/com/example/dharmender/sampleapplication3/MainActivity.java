@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void TestFunction()
+    public void TestFunction(int t)
     {
         String x = "test function is edited";
         String y= "test function id edited for variale y";
