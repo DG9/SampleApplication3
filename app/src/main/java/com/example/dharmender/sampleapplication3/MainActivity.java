@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void TestFunction()
     {
-
+        String x = "test function is edited";
     }
 
 }
