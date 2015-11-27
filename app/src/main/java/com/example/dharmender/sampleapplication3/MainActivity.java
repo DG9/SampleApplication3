@@ -54,7 +54,6 @@ public class MainActivity extends AppCompatActivity {
     {
         String x = "test function is edited";
         String y= "test function id edited for variale y";
-
     }
 
 }
